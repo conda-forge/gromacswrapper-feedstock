@@ -18,13 +18,12 @@ build:
 requirements:
   host:
     - pip
-    - python >=3.6
+    - python >=3.9
   run:
     - matplotlib-base
     - numkit
     - numpy >=1.0
-    - python >=3.6
-    - six
+    - python >=3.9
 
 test:
   imports:
@@ -37,8 +36,8 @@ test:
 
 about:
   home: https://github.com/Becksteinlab/GromacsWrapper
-  summary: A python wrapper around the Gromacs tools.
-  doc_url: https://pythonhosted.org/GromacsWrapper/
+  summary: A Python wrapper around the Gromacs tools.
+  doc_url: https://gromacswrapper.readthedocs.io/
   dev_url: https://github.com/Becksteinlab/GromacsWrapper
   license: GPL-3.0-or-later
   license_family: GPL
