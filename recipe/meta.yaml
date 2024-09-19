@@ -1,5 +1,5 @@
 {% set name = "gromacswrapper" %}
-{% set version = "0.9.0" %}
+{% set version = "0.9.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 838b28247cd5fa1709db0c9df83881972b700a6850d2fb4a407bcd55d4989a42
+  sha256: f196666ff22c97e51068c36393d447d259bd067dd22b3e22393ab61e5892a855
 
 build:
   number: 0
