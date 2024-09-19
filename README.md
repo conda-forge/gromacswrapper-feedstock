@@ -7,11 +7,11 @@ Home: https://github.com/Becksteinlab/GromacsWrapper
 
 Package license: GPL-3.0-or-later
 
-Summary: A python wrapper around the Gromacs tools.
+Summary: A Python wrapper around the Gromacs tools.
 
 Development: https://github.com/Becksteinlab/GromacsWrapper
 
-Documentation: https://pythonhosted.org/GromacsWrapper/
+Documentation: https://gromacswrapper.readthedocs.io/
 
 GromacsWrapper is a Python package that wraps system calls to GROMACS
 tools into thin classes. This allows for fairly seamless integration
